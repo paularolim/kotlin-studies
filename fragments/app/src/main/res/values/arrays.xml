@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/phill</item>
+        <item>@drawable/gloria</item>
+        <item>@drawable/cameron</item>
+    </array>
+
+    <string-array name="names">
+        <item>Phill Dunphy</item>
+        <item>Glória Delgado-Prichett</item>
+        <item>Cameron Tucker</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Philip Humphrey "Phil" Dunphy (Ty Burrell) is a Real Estate Agent. He is the husband of Claire and father of three children Haley, Alex and Luke. He has a childlike attitude and acts more like a friend than a parent to his son.</item>
+        <item>Gloria Marie Delgado-Pritchett (née Ramirez) (Sofia Vergara) is the much younger Colombian wife of Jay. She is a housewife and a former hairdresser and taxi driver. She appears to be vociferous and takes her Colombian heritage seriously, unlike Manny.</item>
+        <item>Cameron Scott "Cam" Tucker (Eric Stonestreet) is the one with many jobs and grew up with his family on a farm. He can be emotional at times.</item>
+    </string-array>
+</resources>
